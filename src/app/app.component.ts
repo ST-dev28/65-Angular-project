@@ -1,5 +1,5 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
-import { Prezidentas } from "./models/prezidentas";
+import { Prezidentas } from "./models/Prezidentas";
 
 @Component({
   selector: 'app-root',
